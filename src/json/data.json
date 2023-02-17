@@ -1,0 +1,451 @@
+[
+  {
+    "id": 1,
+    "item_image": "https://www.inspiredhomes.net.au/wp-content/uploads/2022/09/IH-Bolton-Way-Banner-scaled.jpg",
+    "item_location": "Cape raven",
+    "item_size": 138,
+    "item_rooms": 6,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 2,
+    "item_image": "https://www.realestate.com.au/blog/images/2000x1500-fit,progressive/2021/11/24151024/Rawson_Facade2_2000x1500.jpg",
+    "item_size": 256,
+    "item_rooms": 2,
+    "item_green_areas": 2,
+    "item_price": 5007000
+  },
+  {
+    "id": 3,
+    "item_image": "https://www.montgomeryhomes.com.au/wp-content/uploads/2022/10/Montgomery-Homes-Cayman-287-Knock-Down-Rebuild.jpg",
+    "item_location": "london , nilala",
+    "item_size": 266,
+    "item_rooms": 2,
+    "item_green_areas": 1,
+    "item_price": 5000000
+  },
+  {
+    "id": 4,
+    "item_image": "https://www.montgomeryhomes.com.au/wp-content/uploads/2022/01/Cayman-287-display-home-box-hill-facade.jpg",
+    "item_location": "Desert tortoise",
+    "item_size": 249,
+    "item_rooms": 8,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 5,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Rufous tree pie",
+    "item_size": 99,
+    "item_rooms": 2,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 6,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "African buffalo",
+    "item_size": 152,
+    "item_rooms": 1,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 7,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Pocket gopher , nilala",
+    "item_size": 183,
+    "item_rooms": 2,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 8,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "American racer",
+    "item_size": 231,
+    "item_rooms": 10,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 9,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Herring gull",
+    "item_size": 187,
+    "item_rooms": 8,
+    "item_green_areas": 1,
+    "item_price": 5000000
+  },
+  {
+    "id": 10,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Spoonbill, european",
+    "item_size": 106,
+    "item_rooms": 8,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 11,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Quoll, spotted-tailed",
+    "item_size": 209,
+    "item_rooms": 1,
+    "item_green_areas": 4,
+    "item_price": 5000000
+  },
+  {
+    "id": 12,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Phalarope, grey",
+    "item_size": 238,
+    "item_rooms": 6,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 13,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Snake-necked turtle",
+    "item_size": 253,
+    "item_rooms": 8,
+    "item_green_areas": 4,
+    "item_price": 5000000
+  },
+  {
+    "id": 14,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Porcupine, indian",
+    "item_size": 243,
+    "item_rooms": 4,
+    "item_green_areas": 4,
+    "item_price": 5000000
+  },
+  {
+    "id": 15,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Dove, ring",
+    "item_size": 268,
+    "item_rooms": 9,
+    "item_green_areas": 4,
+    "item_price": 5000000
+  },
+  {
+    "id": 16,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Arctic tern",
+    "item_size": 257,
+    "item_rooms": 8,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 17,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Snake, green vine",
+    "item_size": 260,
+    "item_rooms": 6,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 18,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Cottonmouth",
+    "item_size": 149,
+    "item_rooms": 7,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 19,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Gonolek, burchell's",
+    "item_size": 129,
+    "item_rooms": 6,
+    "item_green_areas": 1,
+    "item_price": 5000000
+  },
+  {
+    "id": 20,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Carpet snake",
+    "item_size": 185,
+    "item_rooms": 8,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 21,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Aardwolf",
+    "item_size": 106,
+    "item_rooms": 3,
+    "item_green_areas": 4,
+    "item_price": 5000000
+  },
+  {
+    "id": 22,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Egret, cattle",
+    "item_size": 82,
+    "item_rooms": 3,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 23,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Blue-tongued lizard",
+    "item_size": 117,
+    "item_rooms": 1,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 24,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Australian magpie",
+    "item_size": 199,
+    "item_rooms": 1,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 25,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Starling, superb",
+    "item_size": 155,
+    "item_rooms": 2,
+    "item_green_areas": 4,
+    "item_price": 5000000
+  },
+  {
+    "id": 26,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Quoll, eastern",
+    "item_size": 228,
+    "item_rooms": 5,
+    "item_green_areas": 1,
+    "item_price": 5000000
+  },
+  {
+    "id": 27,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Nutcracker, clark's",
+    "item_size": 185,
+    "item_rooms": 1,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 28,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Brown and yellow marshbird",
+    "item_size": 147,
+    "item_rooms": 4,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 29,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Boa, cook's tree",
+    "item_size": 249,
+    "item_rooms": 8,
+    "item_green_areas": 4,
+    "item_price": 5000000
+  },
+  {
+    "id": 30,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Coatimundi, white-nosed",
+    "item_size": 263,
+    "item_rooms": 7,
+    "item_green_areas": 4,
+    "item_price": 5000000
+  },
+  {
+    "id": 31,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Dark-winged trumpeter",
+    "item_size": 106,
+    "item_rooms": 1,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 32,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Bat, asian false vampire",
+    "item_size": 206,
+    "item_rooms": 2,
+    "item_green_areas": 1,
+    "item_price": 5000000
+  },
+  {
+    "id": 33,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Pie, indian tree",
+    "item_size": 169,
+    "item_rooms": 9,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 34,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Gray langur",
+    "item_size": 162,
+    "item_rooms": 8,
+    "item_green_areas": 1,
+    "item_price": 5000000
+  },
+  {
+    "id": 35,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Sage hen",
+    "item_size": 152,
+    "item_rooms": 10,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 36,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "White-necked raven",
+    "item_size": 98,
+    "item_rooms": 3,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 37,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Woolly-necked stork",
+    "item_size": 175,
+    "item_rooms": 2,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 38,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Onager",
+    "item_size": 212,
+    "item_rooms": 1,
+    "item_green_areas": 4,
+    "item_price": 5000000
+  },
+  {
+    "id": 39,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Yellow mongoose",
+    "item_size": 269,
+    "item_rooms": 3,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 40,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Butterfly, canadian tiger swallowtail",
+    "item_size": 99,
+    "item_rooms": 9,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 41,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Grenadier, common",
+    "item_size": 142,
+    "item_rooms": 5,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 42,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Vulture, oriental white-backed",
+    "item_size": 221,
+    "item_rooms": 1,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 43,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Thomson's gazelle",
+    "item_size": 166,
+    "item_rooms": 5,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 44,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Savannah deer",
+    "item_size": 193,
+    "item_rooms": 1,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 45,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Black-necked stork",
+    "item_size": 193,
+    "item_rooms": 5,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 46,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Laughing dove",
+    "item_size": 153,
+    "item_rooms": 7,
+    "item_green_areas": 2,
+    "item_price": 5000000
+  },
+  {
+    "id": 47,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Tawny eagle",
+    "item_size": 224,
+    "item_rooms": 2,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  },
+  {
+    "id": 48,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Bushpig",
+    "item_size": 81,
+    "item_rooms": 9,
+    "item_green_areas": 4,
+    "item_price": 5000000
+  },
+  {
+    "id": 49,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Iguana, land",
+    "item_size": 252,
+    "item_rooms": 6,
+    "item_green_areas": 1,
+    "item_price": 5000000
+  },
+  {
+    "id": 50,
+    "item_image": "https://dummyimage.com/450x300/000000/ffffffe0f241&text=image",
+    "item_location": "Armadillo, nine-banded",
+    "item_size": 75,
+    "item_rooms": 2,
+    "item_green_areas": 3,
+    "item_price": 5000000
+  }
+]
